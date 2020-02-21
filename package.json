@@ -1,0 +1,19 @@
+{
+  "name": "youtube-scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-auth-library": "^5.10.0",
+    "googleapis": "^47.0.0",
+    "sleep": "^6.1.0",
+    "superagent": "^5.2.2",
+    "youtube-api-es6": "^1.0.3"
+  }
+}
